@@ -1,0 +1,36 @@
+body {
+    background: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.card {
+    margin: 2rem;
+
+}
+
+.card-title {
+    font-size: 25px;
+    color: #212529;
+}
+
+.card-text {
+    font-size: 20px;
+    color: #212529;
+}
+
+.parrafo {
+    font-size: 16px;
+}
+
+.parrafo-dos {
+    font-size: 13px;
+}
+
+.card-footer {
+    font-size: 20px;
+}
+
+.footer {
+    font-size: 16px;
+}
